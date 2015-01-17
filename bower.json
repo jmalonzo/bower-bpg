@@ -1,0 +1,26 @@
+{
+  "name": "bpg",
+  "version": "0.9.5",
+  "authors": [
+    "Fabrice Bellard <fabrice@bellard.org>"
+  ],
+  "description": "BPG (Better Portable Graphics) is a new image format. Its purpose is to replace the JPEG image format when quality or file size is an issue.",
+  "main": "bpgdec.js",
+  "keywords": [
+    "jpeg",
+    "jpg",
+    "bpg",
+    "libbpg",
+    "photos",
+    "media"
+  ],
+  "license": "BSD",
+  "homepage": "http://bellard.org/bpg/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
